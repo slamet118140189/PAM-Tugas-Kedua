@@ -14,4 +14,4 @@ Ingin mencoba aplikasi yang telah saya kembangkan? Silakan unduh melalui tautan 
 
 Saya telah menyusun video dokumentasi dari Tugas 2-5 serta UTS dalam 1 video. Video ini telah saya unggah di Youtube agar Bapak Muhammad Habib Algifari, S.Kom., M.T.I. dan Bapak Muhammad Abdu Ar Rahman, S.Kom. dapat melihat tugas yang telah saya kerjaan tanpa perlu menginstal aplikasi. 
 
-[![Tonton Video](https://img.youtube.com/vi/rp9beA5GL5A/0.jpg)](https://www.youtube.com/watch?v=rp9beA5GL5A)
+[![Tonton Video](https://img.youtube.com/vi/Yk4BMEvMn_s/0.jpg)](https://www.youtube.com/watch?v=Yk4BMEvMn_s)
